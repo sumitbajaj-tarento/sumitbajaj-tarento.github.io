@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "WTTCertCredential": {
+      "@id": "https://sumitbajaj-tarento.github.io/wtt-context.json#WTTCertCredential"
+    },
+    "fullName": "schema:name",
+    "enrollment_id": "schema:Text",
+    "courseName": "schema:Text",
+    "issuedON": "schema:Text",
+    "admissionYear": "schema:Text",
+  }
+}
